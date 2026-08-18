@@ -1,0 +1,26 @@
+{
+  "item": {
+    "id": "canopus_lyraplayer",
+    "restype": "canopus",
+    "name": "Lyra音乐播放器",
+    "description": "需要Canpous框架工作，在安装的同时请安装Canopus管理器",
+    "preview": [],
+    "icon": "icon.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "Searchstars",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.2.0",
+      "versionCode": 4,
+      "file_name": "lyra-player-installer-prod-10p-036+030.v65536.bin"
+    }
+  },
+  "ext": {}
+}
