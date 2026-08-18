@@ -32,10 +32,6 @@
       "required": [
         {
           "type": "resource",
-          "id": "canopus_manager"
-        },
-        {
-          "type": "resource",
           "id": "com.canopus.lyraimport"
         }
       ]
