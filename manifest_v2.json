@@ -3,7 +3,7 @@
     "id": "canopus_lyraplayer",
     "restype": "canopus",
     "name": "Lyra音乐播放器",
-    "description": "需要Canpous框架工作，在安装的同时请安装Canopus管理器",
+    "description": "需要Canpous框架工作，在安装的同时请安装Canopus管理器<br/>播放音频需使用蓝牙音频扩展模块连接耳机，该模块已在AstroBox官方社区源中提供。",
     "preview": [],
     "icon": "icon.png",
     "cover": "cover.png",
