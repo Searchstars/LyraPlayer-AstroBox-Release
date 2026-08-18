@@ -14,7 +14,12 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "使用文档",
+      "url": "https://abox.run/docs/usage/canopus/lyra-player"
+    }
+  ],
   "downloads": {
     "xmb10p": {
       "version": "1.2.0",
