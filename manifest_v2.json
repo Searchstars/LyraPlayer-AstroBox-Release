@@ -22,5 +22,17 @@
       "file_name": "lyra-player-installer-prod-10p-036+030.v65536.bin"
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "required": [
+        {
+          "type": "resource",
+          "id": "canopus_manager"
+        },
+        {
+          "type": "resource",
+          "id": "com.canopus.lyraimport"
+        }
+      ]
+  }
 }
