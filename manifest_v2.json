@@ -39,12 +39,10 @@
   },
   "ext": {
     "bundledResources": {
-      "required": [
-        {
-          "type": "resource",
-          "id": "com.canopus.lyraimport"
-        }
-      ]
+      "required": [{
+        "type": "plugin",
+        "id": "Lyra音乐导入器"
+      }]
     }
   }
 }
